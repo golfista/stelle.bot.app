@@ -184,13 +184,13 @@ Check our [Known Issues](https://github.com/golfista/stelle.bot.app/issues?q=is%
 ## Roadmap
 
 ### In Progress
-- [ ] Share intent (receive URLs from other apps)
-- [ ] Push notifications for new downloads
+- [x] Share intent (receive URLs from other apps)
+- [x] Push notifications for new downloads
 - [ ] Android Auto support
 
 ### Planned
 - [ ] iOS app development
-- [ ] Playlist management
+- [x] Playlist management
 - [ ] Download media directly in-app
 - [ ] Widget support
 - [ ] Wear OS companion app
